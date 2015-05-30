@@ -7,3 +7,6 @@
 	在工作区myGitTest中修改read1.txt文件，
 	然后通过git add read1.txt添加到git版本库中的暂存区，
 	再通过git commit -m "update read1.txt文件，学习git原理"将暂存区的所有修改提交到分支
+	
+5.丢弃工作区的修改
+	git checkout --read1.txt
