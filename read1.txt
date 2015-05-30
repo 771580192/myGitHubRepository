@@ -3,3 +3,7 @@
 	hello git!
 3.update agin read1.txt
 	I like you!
+4.update three read1.txt
+	在工作区myGitTest中修改read1.txt文件，
+	然后通过git add read1.txt添加到git版本库，
+	再通过git commit -m "update read1.txt文件，学习git原理"
