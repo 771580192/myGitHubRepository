@@ -1,3 +1,5 @@
 1.new read1.txt
 2.update read1.txt
 	hello git!
+3.update agin read1.txt
+	I like you!
